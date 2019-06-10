@@ -32,9 +32,10 @@ python版本:3.6.5<br>
 
 ### 第一步开启cookies池
 #### 启动redis
-在cmd下输入'''redis-server'''<br>
+在cmd下输入```redis-server```<br>
 ![image](https://github.com/SaltFishGuy/picture/blob/master/redis-start.png)<br>
-cookies池下的run.py<br>
+执行cookies池下的run.py<br>
+![image](https://github.com/SaltFishGuy/picture/blob/master/cookies-start.png)<br>
 
 
 
