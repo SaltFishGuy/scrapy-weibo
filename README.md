@@ -37,6 +37,17 @@ python版本:3.6.5<br>
 执行cookies池下的run.py<br>
 ![image](https://github.com/SaltFishGuy/picture/blob/master/cookies-start.png)<br>
 
-
-
 ### 第二部开启代理池
+在cmd下输入```redis-server```<br>
+![image](https://github.com/SaltFishGuy/picture/blob/master/redis-start.png)<br>
+执行proxypool池下的run.py<br>
+![image](https://github.com/SaltFishGuy/picture/blob/master/proxypool.png)<br>
+
+### 第三部开启新浪微博爬虫
+在pycharm的交互命令行窗口执行weibocn爬虫```scrapy crawl weibocn```<br>
+![image](https://github.com/SaltFishGuy/picture/blob/master/scrapy.png)<br>
+
+### 存储在mongodb中的数据
+使用mongodb可视化工具Robo 3T 1.2.1<br>
+![image](https://github.com/SaltFishGuy/picture/blob/master/mongodb.png)<br>
+
